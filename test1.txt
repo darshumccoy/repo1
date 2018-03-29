@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FA6E-B6CC
+
+ Directory of C:\project\git ex
+
+29-03-2018  18:05    <DIR>          .
+29-03-2018  18:05    <DIR>          ..
+29-03-2018  18:05                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  336,821,534,720 bytes free
